@@ -1,2 +1,2 @@
 # CSE-2315
-For McMurrough Class
+For McMurrough's Class
