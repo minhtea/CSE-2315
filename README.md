@@ -1,2 +1,2 @@
-# CSE-2315
-For McMurrough's Class
+# CSE-3310
+For Davis's class.
